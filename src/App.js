@@ -81,7 +81,7 @@ function CardDisplay() {
         </Card.Footer>
       </Card>
 
-      {/* <Card className="border-dark ">
+       <Card className="border-dark ">
         <Card.Img className="size" variant="top" src="https://solveout.in/wp-content/uploads/2016/08/Logomakr_5i6JMT.png" />
         <Card.Body>
           <Card.Title className="title">3-SEM Papers</Card.Title>
@@ -93,7 +93,7 @@ function CardDisplay() {
         <Card.Footer>
           <small className="text-muted">Last updated 11 mins ago</small>
         </Card.Footer>
-      </Card> */}
+      </Card> 
     </CardColumns>
 
 
