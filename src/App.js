@@ -106,9 +106,6 @@ function App() {
   return (
   
     <div className="background">
-        <head>
-      <script data-ad-client="ca-pub-2648188020159496" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      </head>
       <h1>Study Material</h1>
       <CardDisplay />
     </div>
